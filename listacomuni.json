@@ -1,0 +1,2668 @@
+{
+    "ListaComuni": [
+        {
+            "Comune": "Ala",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38061",
+            "CodFisco": "A116",
+            "Abitanti": "9034"
+        },
+        {
+            "Comune": "Albiano",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38041",
+            "CodFisco": "A158",
+            "Abitanti": "1511"
+        },
+        {
+            "Comune": "Aldeno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "A178",
+            "Abitanti": "3014"
+        },
+        {
+            "Comune": "Aldino",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "A179",
+            "Abitanti": "1665"
+        },
+        {
+            "Comune": "Amblar",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38011",
+            "CodFisco": "A260",
+            "Abitanti": "232"
+        },
+        {
+            "Comune": "Andalo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "A274",
+            "Abitanti": "1037"
+        },
+        {
+            "Comune": "Andriano",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39010",
+            "CodFisco": "A286",
+            "Abitanti": "1042"
+        },
+        {
+            "Comune": "Anterivo",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "A306",
+            "Abitanti": "383"
+        },
+        {
+            "Comune": "Appiano sulla Strada del Vino",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39057",
+            "CodFisco": "A332",
+            "Abitanti": "14235"
+        },
+        {
+            "Comune": "Arco",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38062",
+            "CodFisco": "A372",
+            "Abitanti": "16901"
+        },
+        {
+            "Comune": "Avelengo",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39010",
+            "CodFisco": "A507",
+            "Abitanti": "752"
+        },
+        {
+            "Comune": "Avio",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38063",
+            "CodFisco": "A520",
+            "Abitanti": "4122"
+        },
+        {
+            "Comune": "Badia",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39036",
+            "CodFisco": "A537",
+            "Abitanti": "3369"
+        },
+        {
+            "Comune": "Barbiano",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "A635",
+            "Abitanti": "1602"
+        },
+        {
+            "Comune": "Baselga di Pinè",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38042",
+            "CodFisco": "A694",
+            "Abitanti": "4899"
+        },
+        {
+            "Comune": "Bedollo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38043",
+            "CodFisco": "A730",
+            "Abitanti": "1478"
+        },
+        {
+            "Comune": "Bersone",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38085",
+            "CodFisco": "A808",
+            "Abitanti": "282"
+        },
+        {
+            "Comune": "Besenello",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "A821",
+            "Abitanti": "2500"
+        },
+        {
+            "Comune": "Bieno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "A863",
+            "Abitanti": "447"
+        },
+        {
+            "Comune": "Bleggio Superiore",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38071",
+            "CodFisco": "A902",
+            "Abitanti": "1530"
+        },
+        {
+            "Comune": "Bocenago",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38080",
+            "CodFisco": "A916",
+            "Abitanti": "415"
+        },
+        {
+            "Comune": "Bolbeno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38079",
+            "CodFisco": "A933",
+            "Abitanti": "348"
+        },
+        {
+            "Comune": "Bolzano",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39100",
+            "CodFisco": "A952",
+            "Abitanti": "104029"
+        },
+        {
+            "Comune": "Bondo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38081",
+            "CodFisco": "A967",
+            "Abitanti": "701"
+        },
+        {
+            "Comune": "Bondone",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38080",
+            "CodFisco": "A968",
+            "Abitanti": "677"
+        },
+        {
+            "Comune": "Borgo Valsugana",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38051",
+            "CodFisco": "B006",
+            "Abitanti": "6842"
+        },
+        {
+            "Comune": "Bosentino",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38049",
+            "CodFisco": "B078",
+            "Abitanti": "814"
+        },
+        {
+            "Comune": "Braies",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "B116",
+            "Abitanti": "657"
+        },
+        {
+            "Comune": "Breguzzo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38081",
+            "CodFisco": "B135",
+            "Abitanti": "586"
+        },
+        {
+            "Comune": "Brennero",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39041",
+            "CodFisco": "B145",
+            "Abitanti": "2093"
+        },
+        {
+            "Comune": "Brentonico",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "B153",
+            "Abitanti": "3920"
+        },
+        {
+            "Comune": "Bresimo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38020",
+            "CodFisco": "B158",
+            "Abitanti": "248"
+        },
+        {
+            "Comune": "Bressanone",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39042",
+            "CodFisco": "B160",
+            "Abitanti": "20689"
+        },
+        {
+            "Comune": "Brez",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38021",
+            "CodFisco": "B165",
+            "Abitanti": "725"
+        },
+        {
+            "Comune": "Brione",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38083",
+            "CodFisco": "B185",
+            "Abitanti": "151"
+        },
+        {
+            "Comune": "Bronzolo",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39051",
+            "CodFisco": "B203",
+            "Abitanti": "2647"
+        },
+        {
+            "Comune": "Brunico",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39031",
+            "CodFisco": "B220",
+            "Abitanti": "15523"
+        },
+        {
+            "Comune": "Caderzone Terme",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38080",
+            "CodFisco": "B335",
+            "Abitanti": "679"
+        },
+        {
+            "Comune": "Cagnò",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38028",
+            "CodFisco": "B360",
+            "Abitanti": "365"
+        },
+        {
+            "Comune": "Caines",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39010",
+            "CodFisco": "B364",
+            "Abitanti": "400"
+        },
+        {
+            "Comune": "Calavino",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38072",
+            "CodFisco": "B386",
+            "Abitanti": "1496"
+        },
+        {
+            "Comune": "Calceranica al Lago",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "B389",
+            "Abitanti": "1278"
+        },
+        {
+            "Comune": "Caldaro sulla Strada del Vino",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39052",
+            "CodFisco": "B397",
+            "Abitanti": "7609"
+        },
+        {
+            "Comune": "Caldes",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38022",
+            "CodFisco": "B400",
+            "Abitanti": "1115"
+        },
+        {
+            "Comune": "Caldonazzo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38052",
+            "CodFisco": "B404",
+            "Abitanti": "3344"
+        },
+        {
+            "Comune": "Calliano",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "B419",
+            "Abitanti": "1565"
+        },
+        {
+            "Comune": "Campitello di Fassa",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38031",
+            "CodFisco": "B514",
+            "Abitanti": "748"
+        },
+        {
+            "Comune": "Campo di Trens",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "B529",
+            "Abitanti": "2661"
+        },
+        {
+            "Comune": "Campo Tures",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39032",
+            "CodFisco": "B570",
+            "Abitanti": "5267"
+        },
+        {
+            "Comune": "Campodenno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "B525",
+            "Abitanti": "1526"
+        },
+        {
+            "Comune": "Canal San Bovo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "B577",
+            "Abitanti": "1623"
+        },
+        {
+            "Comune": "Canazei",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38032",
+            "CodFisco": "B579",
+            "Abitanti": "1903"
+        },
+        {
+            "Comune": "Capriana",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "B697",
+            "Abitanti": "602"
+        },
+        {
+            "Comune": "Carano",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38033",
+            "CodFisco": "B723",
+            "Abitanti": "1077"
+        },
+        {
+            "Comune": "Carisolo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38080",
+            "CodFisco": "B783",
+            "Abitanti": "974"
+        },
+        {
+            "Comune": "Carzano",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "B856",
+            "Abitanti": "521"
+        },
+        {
+            "Comune": "Castel Condino",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38082",
+            "CodFisco": "C183",
+            "Abitanti": "243"
+        },
+        {
+            "Comune": "Castelbello-Ciardes",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39020",
+            "CodFisco": "C062",
+            "Abitanti": "2392"
+        },
+        {
+            "Comune": "Castelfondo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38020",
+            "CodFisco": "C103",
+            "Abitanti": "643"
+        },
+        {
+            "Comune": "Castello Tesino",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38053",
+            "CodFisco": "C194",
+            "Abitanti": "1345"
+        },
+        {
+            "Comune": "Castello-Molina di Fiemme",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "C189",
+            "Abitanti": "2273"
+        },
+        {
+            "Comune": "Castelnuovo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "C216",
+            "Abitanti": "1022"
+        },
+        {
+            "Comune": "Castelrotto",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "C254",
+            "Abitanti": "6464"
+        },
+        {
+            "Comune": "Cavalese",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38033",
+            "CodFisco": "C372",
+            "Abitanti": "4014"
+        },
+        {
+            "Comune": "Cavareno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38011",
+            "CodFisco": "C380",
+            "Abitanti": "1048"
+        },
+        {
+            "Comune": "Cavedago",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "C392",
+            "Abitanti": "535"
+        },
+        {
+            "Comune": "Cavedine",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38073",
+            "CodFisco": "C393",
+            "Abitanti": "2935"
+        },
+        {
+            "Comune": "Cavizzana",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38022",
+            "CodFisco": "C400",
+            "Abitanti": "260"
+        },
+        {
+            "Comune": "Cembra",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38034",
+            "CodFisco": "C452",
+            "Abitanti": "1856"
+        },
+        {
+            "Comune": "Centa San Nicolò",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38040",
+            "CodFisco": "C467",
+            "Abitanti": "626"
+        },
+        {
+            "Comune": "Cermes",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39010",
+            "CodFisco": "A022",
+            "Abitanti": "1404"
+        },
+        {
+            "Comune": "Chienes",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "C625",
+            "Abitanti": "2727"
+        },
+        {
+            "Comune": "Chiusa",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39043",
+            "CodFisco": "C652",
+            "Abitanti": "5132"
+        },
+        {
+            "Comune": "Cimego",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38082",
+            "CodFisco": "C694",
+            "Abitanti": "413"
+        },
+        {
+            "Comune": "Cimone",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "C700",
+            "Abitanti": "662"
+        },
+        {
+            "Comune": "Cinte Tesino",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "C712",
+            "Abitanti": "389"
+        },
+        {
+            "Comune": "Cis",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38020",
+            "CodFisco": "C727",
+            "Abitanti": "311"
+        },
+        {
+            "Comune": "Civezzano",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38045",
+            "CodFisco": "C756",
+            "Abitanti": "3909"
+        },
+        {
+            "Comune": "Cles",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38023",
+            "CodFisco": "C794",
+            "Abitanti": "6781"
+        },
+        {
+            "Comune": "Cloz",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38020",
+            "CodFisco": "C797",
+            "Abitanti": "734"
+        },
+        {
+            "Comune": "Comano Terme",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38077",
+            "CodFisco": "M314",
+            "Abitanti": "2930"
+        },
+        {
+            "Comune": "Commezzadura",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38020",
+            "CodFisco": "C931",
+            "Abitanti": "1004"
+        },
+        {
+            "Comune": "Condino",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38083",
+            "CodFisco": "C953",
+            "Abitanti": "1512"
+        },
+        {
+            "Comune": "Coredo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "C994",
+            "Abitanti": "1645"
+        },
+        {
+            "Comune": "Cornedo all'Isarco",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39053",
+            "CodFisco": "B799",
+            "Abitanti": "3307"
+        },
+        {
+            "Comune": "Cortaccia sulla Strada del Vino",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "D048",
+            "Abitanti": "2254"
+        },
+        {
+            "Comune": "Cortina sulla Strada del Vino",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "D075",
+            "Abitanti": "645"
+        },
+        {
+            "Comune": "Corvara in Badia",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39033",
+            "CodFisco": "D079",
+            "Abitanti": "1335"
+        },
+        {
+            "Comune": "Croviana",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38027",
+            "CodFisco": "D188",
+            "Abitanti": "688"
+        },
+        {
+            "Comune": "Cunevo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "D206",
+            "Abitanti": "573"
+        },
+        {
+            "Comune": "Curon Venosta",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39027",
+            "CodFisco": "D222",
+            "Abitanti": "2447"
+        },
+        {
+            "Comune": "Daiano",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "D243",
+            "Abitanti": "709"
+        },
+        {
+            "Comune": "Dambel",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "D246",
+            "Abitanti": "434"
+        },
+        {
+            "Comune": "Daone",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38080",
+            "CodFisco": "D248",
+            "Abitanti": "603"
+        },
+        {
+            "Comune": "Darè",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38080",
+            "CodFisco": "D250",
+            "Abitanti": "259"
+        },
+        {
+            "Comune": "Denno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "D273",
+            "Abitanti": "1244"
+        },
+        {
+            "Comune": "Dimaro",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38025",
+            "CodFisco": "D302",
+            "Abitanti": "1263"
+        },
+        {
+            "Comune": "Dobbiaco",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39034",
+            "CodFisco": "D311",
+            "Abitanti": "3292"
+        },
+        {
+            "Comune": "Don",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38011",
+            "CodFisco": "D336",
+            "Abitanti": "248"
+        },
+        {
+            "Comune": "Dorsino",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38070",
+            "CodFisco": "D349",
+            "Abitanti": "439"
+        },
+        {
+            "Comune": "Drena",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38074",
+            "CodFisco": "D365",
+            "Abitanti": "558"
+        },
+        {
+            "Comune": "Dro",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38074",
+            "CodFisco": "D371",
+            "Abitanti": "4435"
+        },
+        {
+            "Comune": "Egna",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39044",
+            "CodFisco": "D392",
+            "Abitanti": "5009"
+        },
+        {
+            "Comune": "Faedo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "D457",
+            "Abitanti": "622"
+        },
+        {
+            "Comune": "Fai della Paganella",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "D468",
+            "Abitanti": "917"
+        },
+        {
+            "Comune": "Falzes",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "D484",
+            "Abitanti": "2619"
+        },
+        {
+            "Comune": "Faver",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "D516",
+            "Abitanti": "828"
+        },
+        {
+            "Comune": "Fiavè",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38075",
+            "CodFisco": "D565",
+            "Abitanti": "1127"
+        },
+        {
+            "Comune": "Fiè allo Sciliar",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39050",
+            "CodFisco": "D571",
+            "Abitanti": "3469"
+        },
+        {
+            "Comune": "Fiera di Primiero",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38054",
+            "CodFisco": "D572",
+            "Abitanti": "533"
+        },
+        {
+            "Comune": "Fierozzo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "D573",
+            "Abitanti": "477"
+        },
+        {
+            "Comune": "Flavon",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "D631",
+            "Abitanti": "545"
+        },
+        {
+            "Comune": "Folgaria",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38064",
+            "CodFisco": "D651",
+            "Abitanti": "3118"
+        },
+        {
+            "Comune": "Fondo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38013",
+            "CodFisco": "D663",
+            "Abitanti": "1475"
+        },
+        {
+            "Comune": "Fornace",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38040",
+            "CodFisco": "D714",
+            "Abitanti": "1323"
+        },
+        {
+            "Comune": "Fortezza",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39045",
+            "CodFisco": "D731",
+            "Abitanti": "975"
+        },
+        {
+            "Comune": "Frassilongo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "D775",
+            "Abitanti": "331"
+        },
+        {
+            "Comune": "Funes",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "D821",
+            "Abitanti": "2556"
+        },
+        {
+            "Comune": "Gais",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "D860",
+            "Abitanti": "3160"
+        },
+        {
+            "Comune": "Gargazzone",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39010",
+            "CodFisco": "D923",
+            "Abitanti": "1638"
+        },
+        {
+            "Comune": "Garniga Terme",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "D928",
+            "Abitanti": "392"
+        },
+        {
+            "Comune": "Giovo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "E048",
+            "Abitanti": "2490"
+        },
+        {
+            "Comune": "Giustino",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38086",
+            "CodFisco": "E065",
+            "Abitanti": "750"
+        },
+        {
+            "Comune": "Glorenza",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39020",
+            "CodFisco": "E069",
+            "Abitanti": "880"
+        },
+        {
+            "Comune": "Grauno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "E150",
+            "Abitanti": "149"
+        },
+        {
+            "Comune": "Grigno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38055",
+            "CodFisco": "E178",
+            "Abitanti": "2299"
+        },
+        {
+            "Comune": "Grumes",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "E222",
+            "Abitanti": "441"
+        },
+        {
+            "Comune": "Imer",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "E288",
+            "Abitanti": "1206"
+        },
+        {
+            "Comune": "Isera",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "E334",
+            "Abitanti": "2601"
+        },
+        {
+            "Comune": "Ivano-Fracena",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38059",
+            "CodFisco": "E378",
+            "Abitanti": "339"
+        },
+        {
+            "Comune": "La Valle",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "E491",
+            "Abitanti": "1302"
+        },
+        {
+            "Comune": "Laces",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39021",
+            "CodFisco": "E398",
+            "Abitanti": "5144"
+        },
+        {
+            "Comune": "Lagundo",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39022",
+            "CodFisco": "E412",
+            "Abitanti": "4848"
+        },
+        {
+            "Comune": "Laion",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "E420",
+            "Abitanti": "2616"
+        },
+        {
+            "Comune": "Laives",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39055",
+            "CodFisco": "E421",
+            "Abitanti": "17197"
+        },
+        {
+            "Comune": "Lana",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39011",
+            "CodFisco": "E434",
+            "Abitanti": "11230"
+        },
+        {
+            "Comune": "Lardaro",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38087",
+            "CodFisco": "E452",
+            "Abitanti": "217"
+        },
+        {
+            "Comune": "Lasa",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39023",
+            "CodFisco": "E457",
+            "Abitanti": "3937"
+        },
+        {
+            "Comune": "Lasino",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38076",
+            "CodFisco": "E461",
+            "Abitanti": "1305"
+        },
+        {
+            "Comune": "Lauregno",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "E481",
+            "Abitanti": "346"
+        },
+        {
+            "Comune": "Lavarone",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38046",
+            "CodFisco": "E492",
+            "Abitanti": "1107"
+        },
+        {
+            "Comune": "Lavis",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38015",
+            "CodFisco": "E500",
+            "Abitanti": "8635"
+        },
+        {
+            "Comune": "Ledro",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38067",
+            "CodFisco": "M313",
+            "Abitanti": "5523"
+        },
+        {
+            "Comune": "Levico Terme",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38056",
+            "CodFisco": "E565",
+            "Abitanti": "7474"
+        },
+        {
+            "Comune": "Lisignago",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "E614",
+            "Abitanti": "504"
+        },
+        {
+            "Comune": "Livo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38020",
+            "CodFisco": "E624",
+            "Abitanti": "905"
+        },
+        {
+            "Comune": "Lona-Lases",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38040",
+            "CodFisco": "E664",
+            "Abitanti": "854"
+        },
+        {
+            "Comune": "Luserna",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38040",
+            "CodFisco": "E757",
+            "Abitanti": "297"
+        },
+        {
+            "Comune": "Luson",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "E764",
+            "Abitanti": "1539"
+        },
+        {
+            "Comune": "Magrè sulla Strada del Vino",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "E829",
+            "Abitanti": "1302"
+        },
+        {
+            "Comune": "Malè",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38027",
+            "CodFisco": "E850",
+            "Abitanti": "2133"
+        },
+        {
+            "Comune": "Malles Venosta",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39024",
+            "CodFisco": "E862",
+            "Abitanti": "5093"
+        },
+        {
+            "Comune": "Malosco",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38013",
+            "CodFisco": "E866",
+            "Abitanti": "453"
+        },
+        {
+            "Comune": "Marebbe",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "E938",
+            "Abitanti": "2912"
+        },
+        {
+            "Comune": "Marlengo",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39020",
+            "CodFisco": "E959",
+            "Abitanti": "2524"
+        },
+        {
+            "Comune": "Martello",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39020",
+            "CodFisco": "E981",
+            "Abitanti": "883"
+        },
+        {
+            "Comune": "Massimeno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38086",
+            "CodFisco": "F045",
+            "Abitanti": "117"
+        },
+        {
+            "Comune": "Mazzin",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "F068",
+            "Abitanti": "498"
+        },
+        {
+            "Comune": "Meltina",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39010",
+            "CodFisco": "F118",
+            "Abitanti": "1625"
+        },
+        {
+            "Comune": "Merano",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39012",
+            "CodFisco": "F132",
+            "Abitanti": "38229"
+        },
+        {
+            "Comune": "Mezzana",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38020",
+            "CodFisco": "F168",
+            "Abitanti": "872"
+        },
+        {
+            "Comune": "Mezzano",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "F176",
+            "Abitanti": "1635"
+        },
+        {
+            "Comune": "Mezzocorona",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38016",
+            "CodFisco": "F183",
+            "Abitanti": "5179"
+        },
+        {
+            "Comune": "Mezzolombardo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38017",
+            "CodFisco": "F187",
+            "Abitanti": "6914"
+        },
+        {
+            "Comune": "Moena",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38035",
+            "CodFisco": "F263",
+            "Abitanti": "2709"
+        },
+        {
+            "Comune": "Molveno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38018",
+            "CodFisco": "F307",
+            "Abitanti": "1130"
+        },
+        {
+            "Comune": "Monclassico",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38020",
+            "CodFisco": "F341",
+            "Abitanti": "872"
+        },
+        {
+            "Comune": "Monguelfo-Tesido",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39035",
+            "CodFisco": "F371",
+            "Abitanti": "2804"
+        },
+        {
+            "Comune": "Montagna",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "F392",
+            "Abitanti": "1633"
+        },
+        {
+            "Comune": "Montagne",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38070",
+            "CodFisco": "F396",
+            "Abitanti": "244"
+        },
+        {
+            "Comune": "Mori",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38065",
+            "CodFisco": "F728",
+            "Abitanti": "9538"
+        },
+        {
+            "Comune": "Moso in Passiria",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39013",
+            "CodFisco": "F766",
+            "Abitanti": "2168"
+        },
+        {
+            "Comune": "Nago-Torbole",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38069",
+            "CodFisco": "F835",
+            "Abitanti": "2793"
+        },
+        {
+            "Comune": "Nalles",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39010",
+            "CodFisco": "F836",
+            "Abitanti": "1826"
+        },
+        {
+            "Comune": "Nanno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "F837",
+            "Abitanti": "632"
+        },
+        {
+            "Comune": "Naturno",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39025",
+            "CodFisco": "F849",
+            "Abitanti": "5554"
+        },
+        {
+            "Comune": "Nave San Rocco",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "F853",
+            "Abitanti": "1399"
+        },
+        {
+            "Comune": "Naz-Sciaves",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "F856",
+            "Abitanti": "2894"
+        },
+        {
+            "Comune": "Nogaredo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "F920",
+            "Abitanti": "1959"
+        },
+        {
+            "Comune": "Nomi",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "F929",
+            "Abitanti": "1317"
+        },
+        {
+            "Comune": "Nova Levante",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39056",
+            "CodFisco": "F949",
+            "Abitanti": "1910"
+        },
+        {
+            "Comune": "Nova Ponente",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39050",
+            "CodFisco": "F950",
+            "Abitanti": "3902"
+        },
+        {
+            "Comune": "Novaledo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "F947",
+            "Abitanti": "1040"
+        },
+        {
+            "Comune": "Ora",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "G083",
+            "Abitanti": "3537"
+        },
+        {
+            "Comune": "Ortisei",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39046",
+            "CodFisco": "G140",
+            "Abitanti": "4636"
+        },
+        {
+            "Comune": "Ospedaletto",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "G168",
+            "Abitanti": "809"
+        },
+        {
+            "Comune": "Ossana",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38026",
+            "CodFisco": "G173",
+            "Abitanti": "839"
+        },
+        {
+            "Comune": "Padergnone",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38070",
+            "CodFisco": "G214",
+            "Abitanti": "727"
+        },
+        {
+            "Comune": "Palù del Fersina",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "G296",
+            "Abitanti": "177"
+        },
+        {
+            "Comune": "Panchià",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "G305",
+            "Abitanti": "764"
+        },
+        {
+            "Comune": "Parcines",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39020",
+            "CodFisco": "G328",
+            "Abitanti": "3533"
+        },
+        {
+            "Comune": "Peio",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38024",
+            "CodFisco": "G419",
+            "Abitanti": "1910"
+        },
+        {
+            "Comune": "Pellizzano",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38020",
+            "CodFisco": "G428",
+            "Abitanti": "784"
+        },
+        {
+            "Comune": "Pelugo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38079",
+            "CodFisco": "G429",
+            "Abitanti": "391"
+        },
+        {
+            "Comune": "Perca",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "G443",
+            "Abitanti": "1455"
+        },
+        {
+            "Comune": "Pergine Valsugana",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38057",
+            "CodFisco": "G452",
+            "Abitanti": "20582"
+        },
+        {
+            "Comune": "Pieve di Bono",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38085",
+            "CodFisco": "G641",
+            "Abitanti": "1380"
+        },
+        {
+            "Comune": "Pieve Tesino",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "G656",
+            "Abitanti": "679"
+        },
+        {
+            "Comune": "Pinzolo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38086",
+            "CodFisco": "G681",
+            "Abitanti": "3157"
+        },
+        {
+            "Comune": "Plaus",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39025",
+            "CodFisco": "G299",
+            "Abitanti": "686"
+        },
+        {
+            "Comune": "Pomarolo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "G808",
+            "Abitanti": "2384"
+        },
+        {
+            "Comune": "Ponte Gardena",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "G830",
+            "Abitanti": "198"
+        },
+        {
+            "Comune": "Postal",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39014",
+            "CodFisco": "G936",
+            "Abitanti": "1742"
+        },
+        {
+            "Comune": "Pozza di Fassa",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38036",
+            "CodFisco": "G950",
+            "Abitanti": "2110"
+        },
+        {
+            "Comune": "Praso",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38080",
+            "CodFisco": "G989",
+            "Abitanti": "342"
+        },
+        {
+            "Comune": "Prato allo Stelvio",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39026",
+            "CodFisco": "H004",
+            "Abitanti": "3381"
+        },
+        {
+            "Comune": "Predazzo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38037",
+            "CodFisco": "H018",
+            "Abitanti": "4537"
+        },
+        {
+            "Comune": "Predoi",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "H019",
+            "Abitanti": "597"
+        },
+        {
+            "Comune": "Preore",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38070",
+            "CodFisco": "H039",
+            "Abitanti": "400"
+        },
+        {
+            "Comune": "Prezzo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38085",
+            "CodFisco": "H057",
+            "Abitanti": "210"
+        },
+        {
+            "Comune": "Proves",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "H081",
+            "Abitanti": "274"
+        },
+        {
+            "Comune": "Rabbi",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38020",
+            "CodFisco": "H146",
+            "Abitanti": "1409"
+        },
+        {
+            "Comune": "Racines",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "H152",
+            "Abitanti": "4369"
+        },
+        {
+            "Comune": "Ragoli",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38070",
+            "CodFisco": "H162",
+            "Abitanti": "770"
+        },
+        {
+            "Comune": "Rasun Anterselva",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "H189",
+            "Abitanti": "2878"
+        },
+        {
+            "Comune": "Renon",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39054",
+            "CodFisco": "H236",
+            "Abitanti": "7600"
+        },
+        {
+            "Comune": "Revò",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38028",
+            "CodFisco": "H254",
+            "Abitanti": "1268"
+        },
+        {
+            "Comune": "Rifiano",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39010",
+            "CodFisco": "H284",
+            "Abitanti": "1317"
+        },
+        {
+            "Comune": "Rio di Pusteria",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39037",
+            "CodFisco": "H299",
+            "Abitanti": "2961"
+        },
+        {
+            "Comune": "Riva del Garda",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38066",
+            "CodFisco": "H330",
+            "Abitanti": "16170"
+        },
+        {
+            "Comune": "Rodengo",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39037",
+            "CodFisco": "H475",
+            "Abitanti": "1190"
+        },
+        {
+            "Comune": "Romallo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38028",
+            "CodFisco": "H506",
+            "Abitanti": "610"
+        },
+        {
+            "Comune": "Romeno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "H517",
+            "Abitanti": "1387"
+        },
+        {
+            "Comune": "Roncegno Terme",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "H528",
+            "Abitanti": "2818"
+        },
+        {
+            "Comune": "Ronchi Valsugana",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "H532",
+            "Abitanti": "424"
+        },
+        {
+            "Comune": "Roncone",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38087",
+            "CodFisco": "H545",
+            "Abitanti": "1475"
+        },
+        {
+            "Comune": "Ronzo-Chienis",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "M303",
+            "Abitanti": "1022"
+        },
+        {
+            "Comune": "Ronzone",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "H552",
+            "Abitanti": "396"
+        },
+        {
+            "Comune": "Roverè della Luna",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "H607",
+            "Abitanti": "1602"
+        },
+        {
+            "Comune": "Rovereto",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38068",
+            "CodFisco": "H612",
+            "Abitanti": "38167"
+        },
+        {
+            "Comune": "Ruffrè-Mendola",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "H634",
+            "Abitanti": "416"
+        },
+        {
+            "Comune": "Rumo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38020",
+            "CodFisco": "H639",
+            "Abitanti": "837"
+        },
+        {
+            "Comune": "Sagron Mis",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "H666",
+            "Abitanti": "203"
+        },
+        {
+            "Comune": "Salorno",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "H719",
+            "Abitanti": "3536"
+        },
+        {
+            "Comune": "Samone",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38059",
+            "CodFisco": "H754",
+            "Abitanti": "547"
+        },
+        {
+            "Comune": "San Candido",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39038",
+            "CodFisco": "H786",
+            "Abitanti": "3172"
+        },
+        {
+            "Comune": "San Genesio Atesino",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39050",
+            "CodFisco": "H858",
+            "Abitanti": "2939"
+        },
+        {
+            "Comune": "San Leonardo in Passiria",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39015",
+            "CodFisco": "H952",
+            "Abitanti": "3542"
+        },
+        {
+            "Comune": "San Lorenzo di Sebato",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "H956",
+            "Abitanti": "3756"
+        },
+        {
+            "Comune": "San Lorenzo in Banale",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38078",
+            "CodFisco": "H966",
+            "Abitanti": "1183"
+        },
+        {
+            "Comune": "San Martino in Badia",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "H988",
+            "Abitanti": "1726"
+        },
+        {
+            "Comune": "San Martino in Passiria",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39010",
+            "CodFisco": "H989",
+            "Abitanti": "3143"
+        },
+        {
+            "Comune": "San Michele all'Adige",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "I042",
+            "Abitanti": "2875"
+        },
+        {
+            "Comune": "San Pancrazio",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39010",
+            "CodFisco": "I065",
+            "Abitanti": "1588"
+        },
+        {
+            "Comune": "Santa Cristina Valgardena",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39047",
+            "CodFisco": "I173",
+            "Abitanti": "1900"
+        },
+        {
+            "Comune": "Sant'Orsola Terme",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "I354",
+            "Abitanti": "1076"
+        },
+        {
+            "Comune": "Sanzeno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "I411",
+            "Abitanti": "938"
+        },
+        {
+            "Comune": "Sarentino",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39058",
+            "CodFisco": "I431",
+            "Abitanti": "6903"
+        },
+        {
+            "Comune": "Sarnonico",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38011",
+            "CodFisco": "I439",
+            "Abitanti": "749"
+        },
+        {
+            "Comune": "Scena",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39017",
+            "CodFisco": "I519",
+            "Abitanti": "2844"
+        },
+        {
+            "Comune": "Scurelle",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "I554",
+            "Abitanti": "1403"
+        },
+        {
+            "Comune": "Segonzano",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38047",
+            "CodFisco": "I576",
+            "Abitanti": "1536"
+        },
+        {
+            "Comune": "Selva dei Molini",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "I593",
+            "Abitanti": "1474"
+        },
+        {
+            "Comune": "Selva di Val Gardena",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39048",
+            "CodFisco": "I591",
+            "Abitanti": "2642"
+        },
+        {
+            "Comune": "Senales",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39020",
+            "CodFisco": "I604",
+            "Abitanti": "1337"
+        },
+        {
+            "Comune": "Senale-San Felice",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39010",
+            "CodFisco": "I603",
+            "Abitanti": "773"
+        },
+        {
+            "Comune": "Sesto",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "I687",
+            "Abitanti": "1952"
+        },
+        {
+            "Comune": "Sfruz",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "I714",
+            "Abitanti": "331"
+        },
+        {
+            "Comune": "Silandro",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39028",
+            "CodFisco": "I729",
+            "Abitanti": "5998"
+        },
+        {
+            "Comune": "Siror",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38054",
+            "CodFisco": "I760",
+            "Abitanti": "1285"
+        },
+        {
+            "Comune": "Sluderno",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39020",
+            "CodFisco": "I771",
+            "Abitanti": "1823"
+        },
+        {
+            "Comune": "Smarano",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "I772",
+            "Abitanti": "492"
+        },
+        {
+            "Comune": "Soraga",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "I839",
+            "Abitanti": "715"
+        },
+        {
+            "Comune": "Sover",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38048",
+            "CodFisco": "I871",
+            "Abitanti": "890"
+        },
+        {
+            "Comune": "Spera",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38059",
+            "CodFisco": "I889",
+            "Abitanti": "609"
+        },
+        {
+            "Comune": "Spiazzo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38088",
+            "CodFisco": "I899",
+            "Abitanti": "1274"
+        },
+        {
+            "Comune": "Spormaggiore",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "I924",
+            "Abitanti": "1292"
+        },
+        {
+            "Comune": "Sporminore",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "I925",
+            "Abitanti": "727"
+        },
+        {
+            "Comune": "Stelvio",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39029",
+            "CodFisco": "I948",
+            "Abitanti": "1215"
+        },
+        {
+            "Comune": "Stenico",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38070",
+            "CodFisco": "I949",
+            "Abitanti": "1160"
+        },
+        {
+            "Comune": "Storo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38089",
+            "CodFisco": "I964",
+            "Abitanti": "4704"
+        },
+        {
+            "Comune": "Strembo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38080",
+            "CodFisco": "I975",
+            "Abitanti": "562"
+        },
+        {
+            "Comune": "Strigno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38059",
+            "CodFisco": "I979",
+            "Abitanti": "1432"
+        },
+        {
+            "Comune": "Taio",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38012",
+            "CodFisco": "L033",
+            "Abitanti": "2924"
+        },
+        {
+            "Comune": "Tassullo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "L060",
+            "Abitanti": "1950"
+        },
+        {
+            "Comune": "Telve",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "L089",
+            "Abitanti": "2003"
+        },
+        {
+            "Comune": "Telve di Sopra",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "L090",
+            "Abitanti": "625"
+        },
+        {
+            "Comune": "Tenna",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "L096",
+            "Abitanti": "983"
+        },
+        {
+            "Comune": "Tenno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "L097",
+            "Abitanti": "2029"
+        },
+        {
+            "Comune": "Terento",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "L106",
+            "Abitanti": "1720"
+        },
+        {
+            "Comune": "Terlago",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38070",
+            "CodFisco": "L107",
+            "Abitanti": "1882"
+        },
+        {
+            "Comune": "Terlano",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39018",
+            "CodFisco": "L108",
+            "Abitanti": "4137"
+        },
+        {
+            "Comune": "Termeno sulla Strada del Vino",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "L111",
+            "Abitanti": "3301"
+        },
+        {
+            "Comune": "Terragnolo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "L121",
+            "Abitanti": "763"
+        },
+        {
+            "Comune": "Terres",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "L137",
+            "Abitanti": "323"
+        },
+        {
+            "Comune": "Terzolas",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38027",
+            "CodFisco": "L145",
+            "Abitanti": "606"
+        },
+        {
+            "Comune": "Tesero",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38038",
+            "CodFisco": "L147",
+            "Abitanti": "2871"
+        },
+        {
+            "Comune": "Tesimo",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39010",
+            "CodFisco": "L149",
+            "Abitanti": "1853"
+        },
+        {
+            "Comune": "Tione di Trento",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38079",
+            "CodFisco": "L174",
+            "Abitanti": "3637"
+        },
+        {
+            "Comune": "Tires",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39050",
+            "CodFisco": "L176",
+            "Abitanti": "978"
+        },
+        {
+            "Comune": "Tirolo",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39019",
+            "CodFisco": "L178",
+            "Abitanti": "2465"
+        },
+        {
+            "Comune": "Ton",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "L200",
+            "Abitanti": "1316"
+        },
+        {
+            "Comune": "Tonadico",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38054",
+            "CodFisco": "L201",
+            "Abitanti": "1470"
+        },
+        {
+            "Comune": "Torcegno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38050",
+            "CodFisco": "L211",
+            "Abitanti": "709"
+        },
+        {
+            "Comune": "Trambileno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38068",
+            "CodFisco": "L322",
+            "Abitanti": "1373"
+        },
+        {
+            "Comune": "Transacqua",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38054",
+            "CodFisco": "L329",
+            "Abitanti": "2128"
+        },
+        {
+            "Comune": "Trento",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "3812x",
+            "CodFisco": "L378",
+            "Abitanti": "116298"
+        },
+        {
+            "Comune": "Tres",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "L385",
+            "Abitanti": "716"
+        },
+        {
+            "Comune": "Trodena nel parco naturale",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "L444",
+            "Abitanti": "1009"
+        },
+        {
+            "Comune": "Tubre",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39020",
+            "CodFisco": "L455",
+            "Abitanti": "962"
+        },
+        {
+            "Comune": "Tuenno",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38019",
+            "CodFisco": "L457",
+            "Abitanti": "2394"
+        },
+        {
+            "Comune": "Ultimo",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39016",
+            "CodFisco": "L490",
+            "Abitanti": "2932"
+        },
+        {
+            "Comune": "Vadena",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39051",
+            "CodFisco": "L527",
+            "Abitanti": "1003"
+        },
+        {
+            "Comune": "Val di Vizze",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39049",
+            "CodFisco": "L564",
+            "Abitanti": "2761"
+        },
+        {
+            "Comune": "Valda",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "L550",
+            "Abitanti": "227"
+        },
+        {
+            "Comune": "Valdaora",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "L552",
+            "Abitanti": "3056"
+        },
+        {
+            "Comune": "Valfloriana",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38040",
+            "CodFisco": "L575",
+            "Abitanti": "554"
+        },
+        {
+            "Comune": "Vallarsa",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "L588",
+            "Abitanti": "1355"
+        },
+        {
+            "Comune": "Valle Aurina",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "L595",
+            "Abitanti": "5884"
+        },
+        {
+            "Comune": "Valle di Casies",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "L601",
+            "Abitanti": "2261"
+        },
+        {
+            "Comune": "Vandoies",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39030",
+            "CodFisco": "L660",
+            "Abitanti": "3263"
+        },
+        {
+            "Comune": "Varena",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "L678",
+            "Abitanti": "831"
+        },
+        {
+            "Comune": "Varna",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "L687",
+            "Abitanti": "4236"
+        },
+        {
+            "Comune": "Vattaro",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38049",
+            "CodFisco": "L697",
+            "Abitanti": "1144"
+        },
+        {
+            "Comune": "Velturno",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "L724",
+            "Abitanti": "2749"
+        },
+        {
+            "Comune": "Verano",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39010",
+            "CodFisco": "L745",
+            "Abitanti": "926"
+        },
+        {
+            "Comune": "Vermiglio",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38029",
+            "CodFisco": "L769",
+            "Abitanti": "1901"
+        },
+        {
+            "Comune": "Vervò",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "L800",
+            "Abitanti": "729"
+        },
+        {
+            "Comune": "Vezzano",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38070",
+            "CodFisco": "L821",
+            "Abitanti": "2192"
+        },
+        {
+            "Comune": "Vignola-Falesina",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38057",
+            "CodFisco": "L886",
+            "Abitanti": "154"
+        },
+        {
+            "Comune": "Vigo di Fassa",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38039",
+            "CodFisco": "L893",
+            "Abitanti": "1177"
+        },
+        {
+            "Comune": "Vigo Rendena",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38080",
+            "CodFisco": "L903",
+            "Abitanti": "517"
+        },
+        {
+            "Comune": "Vigolo Vattaro",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38049",
+            "CodFisco": "L896",
+            "Abitanti": "2201"
+        },
+        {
+            "Comune": "Villa Agnedo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38059",
+            "CodFisco": "L910",
+            "Abitanti": "1012"
+        },
+        {
+            "Comune": "Villa Lagarina",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "L957",
+            "Abitanti": "3684"
+        },
+        {
+            "Comune": "Villa Rendena",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38080",
+            "CodFisco": "M006",
+            "Abitanti": "992"
+        },
+        {
+            "Comune": "Villabassa",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39039",
+            "CodFisco": "L915",
+            "Abitanti": "1473"
+        },
+        {
+            "Comune": "Villandro",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39040",
+            "CodFisco": "L971",
+            "Abitanti": "1906"
+        },
+        {
+            "Comune": "Vipiteno",
+            "Provincia": "BZ",
+            "Regione": "TAA",
+            "CAP": "39049",
+            "CodFisco": "M067",
+            "Abitanti": "6419"
+        },
+        {
+            "Comune": "Volano",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38060",
+            "CodFisco": "M113",
+            "Abitanti": "3177"
+        },
+        {
+            "Comune": "Zambana",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38010",
+            "CodFisco": "M142",
+            "Abitanti": "1677"
+        },
+        {
+            "Comune": "Ziano di Fiemme",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38030",
+            "CodFisco": "M173",
+            "Abitanti": "1659"
+        },
+        {
+            "Comune": "Zuclo",
+            "Provincia": "TN",
+            "Regione": "TAA",
+            "CAP": "38079",
+            "CodFisco": "M198",
+            "Abitanti": "347"
+        }
+    ]
+}
